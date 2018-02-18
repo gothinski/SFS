@@ -1,4 +1,4 @@
-This is the final project for the course Applied Cryptography.
+This project allows for viewing of files between a client and server securely. 
 Done By : Dhruv Verma
 SUID: 545566937
 (C) 2017 gothinski
