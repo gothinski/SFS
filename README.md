@@ -1,6 +1,5 @@
 This project allows for viewing of files between a client and server securely. 
 Done By : Dhruv Verma
-SUID: 545566937
 (C) 2017 gothinski
 
 This project contains two packages : Server and Client
@@ -38,3 +37,5 @@ password: rana
 please install gcc and "sendemail" using apt-get install sendemail for the OTP service to work.
 
 OTP username password has been setup already.
+
+For any questions email me at gothinski@gmail.com
